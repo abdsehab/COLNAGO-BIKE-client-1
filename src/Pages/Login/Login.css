@@ -1,0 +1,37 @@
+p {
+    font-size: 18px;
+    margin-bottom: 0rem;
+}
+
+.btn-style {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 2px 20px;
+    color: #1C1C1C;
+    border: 3px solid #D8BE04;
+    border-radius: 5px;
+}
+
+.btn-style:hover {
+    background-color: #D8BE04;
+    color: #1C1C1C;
+}
+
+.signup-btn {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 2px 20px;
+    background-color: #0f2738;
+    color: black;
+    border: 3px solid #C19B77;
+    border-radius: 5px;
+}
+
+a {
+    color: white;
+}
+
+
+a:hover {
+    color: white;
+}

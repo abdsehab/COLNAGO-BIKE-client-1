@@ -1,0 +1,32 @@
+.footer-link li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+.footer-link li a:hover {
+    color: #E33156;
+}
+
+
+.hours {
+    color: white;
+    text-align: center;
+}
+
+.copyright {
+    background-color: #0096DB;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 50px;
+    text-align: center;
+}
+
+
+.copyright p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+}

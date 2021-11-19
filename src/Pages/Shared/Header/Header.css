@@ -1,0 +1,40 @@
+.card-style {
+    background-color: #0F2738;
+    color: wheat;
+    margin-top: -8px;
+    margin-bottom: -8px;
+}
+
+.card-style img {
+    border-radius: 50%;
+}
+
+.btn-style {
+    font-size: 20px;
+    font-weight: 700;
+    padding: 5px 20px;
+    color: black;
+    border: 3px solid #396cf0;
+    border-radius: 5px;
+}
+
+.btn-style:hover {
+    background-color: #396cf0;
+    color: whitesmoke;
+
+}
+
+span.navbar-toggler-icon {
+    background-color: antiquewhite!important;
+}
+
+.navbar-light .navbar-toggler {
+    color: #ffc107 !important;
+    border-color: #ffc107 !important;
+}
+
+@media only screen and (max-width: 688px) {
+    .top-bar {
+        display: none;
+    }
+}

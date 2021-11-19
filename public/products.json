@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "name": "Colnago C64 Framekit (PJSL) - 19",
+        "price": "6,232.00",
+        "description": "The Colnago C64 is the result of 2 years of brilliant research and it all stemmed from its first alliteration in 1954. As with all the C series, the C64 still remains as one of the few frames still entirely handmade in Italy.",
+        "img": "https://i.ibb.co/0c45ZZ9/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Colnago C64 Framekit (PJWW)",
+        "price": "6,232.00",
+        "description": "The Colnago C64 is the result of 2 years of brilliant research and it all stemmed from its first alliteration in 1954. As with all the C series, the C64 still remains as one of the few frames still entirely handmade in Italy. ",
+        "img": "https://i.ibb.co/njww4TB/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Colnago C64 Framekit (PJUS)",
+        "price": "6,232.00",
+        "description": "The Colnago C64 is the result of 2 years of brilliant research and it all stemmed from its first alliteration in 1954. As with all the C series, the C64 still remains as one of the few frames still entirely handmade in Italy.",
+        "img": "https://i.ibb.co/Cs2kGSR/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Colnago C64 Framekit (PJPK)",
+        "price": "6,232.00",
+        "description": "The Colnago C64 is the result of 2 years of brilliant research and it all stemmed from its first alliteration in 1954. As with all the C series, the C64 still remains as one of the few frames still entirely handmade in Italy. ",
+        "img": "https://i.ibb.co/pfXJTRR/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Colnago C64 Framekit (PJGR)",
+        "price": "6,232.00",
+        "description": "The Colnago C64 is the result of 2 years of brilliant research and it all stemmed from its first alliteration in 1954. As with all the C series, the C64 still remains as one of the few frames still entirely handmade in Italy.",
+        "img": "https://i.ibb.co/0GYLSSB/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Colnago C64 Framekit (PJOR)",
+        "price": "6,232.00",
+        "description": "The Colnago C64 is the result of 2 years of brilliant research and it all stemmed from its first alliteration in 1954. As with all the C series, the C64 still remains as one of the few frames still entirely handmade in Italy.",
+        "img": "https://i.ibb.co/K7sncBc/6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Colnago C64 Framekit Mapei",
+        "price": "6,712.00",
+        "description": "The new C64 Mapei Edition is available for Pre-Order! The frame still boasts the same Italian handmade frameset with the good old use of carbon fiber lugs as pieces which are bonded together forming this emasculate piece of art. ",
+        "img": "https://i.ibb.co/6Z9h9dR/7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Colnago C64 Framekit (BDBL)",
+        "price": "6,942.00",
+        "description": "The Colnago C64 is the result of 2 years of brilliant research and it all stemmed from its first alliteration in 1954. As with all the C series, the C64 still remains as one of the few frames still entirely handmade in Italy.",
+        "img": "https://i.ibb.co/JC6cFq5/8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Colnago C64 Framekit (RCGL)",
+        "price": "6,942.00",
+        "description": "The Colnago C64 is the result of 2 years of brilliant research and it all stemmed from its first alliteration in 1954. As with all the C series, the C64 still remains as one of the few frames still entirely handmade in Italy.",
+        "img": "https://i.ibb.co/f4qyhTm/9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Colnago C64 Framekit (RC19)",
+        "price": "6,942.00",
+        "description": "The Colnago C64 is the result of 2 years of brilliant research and it all stemmed from its first alliteration in 1954. As with all the C series, the C64 still remains as one of the few frames still entirely handmade in Italy.",
+        "img": "https://i.ibb.co/Gckqb2F/10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Colnago C64 Framekit (BDRD)",
+        "price": "6,942.00",
+        "description": "The Colnago C64 is the result of 2 years of brilliant research and it all stemmed from its first alliteration in 1954. As with all the C series, the C64 still remains as one of the few frames still entirely handmade in Italy.",
+        "img": "https://i.ibb.co/q08jbYF/11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Colnago V3Rs Framekit (RZBW)",
+        "price": "6,122.00",
+        "description": "The Colnago V3Rs is conceptualised independently instead of after past successes from monocoque frame releases; the V1-R and V2-R. The V3Rs is lighter, with a size 50 frame weighing in at 790 grams.",
+        "img": "https://i.ibb.co/1RVb98d/12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Colnago V3Rs Framekit (RZGR)",
+        "price": "6,122.00",
+        "description": "The Colnago V3Rs is conceptualised independently instead of after past successes from monocoque frame releases; the V1-R and V2-R. The V3Rs is lighter, with a size 50 frame weighing in at 790 grams.",
+        "img": "https://i.ibb.co/mR8QzVG/13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Colnago V3Rs Framekit (RZWB)",
+        "price": "6,122.00",
+        "description": "The Colnago V3Rs is conceptualised independently instead of after past successes from monocoque frame releases; the V1-R and V2-R. The V3Rs is lighter, with a size 50 frame weighing in at 790 grams.",
+        "img": "https://i.ibb.co/mvn297z/14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Colnago V3Rs Framekit (RC19)",
+        "price": "6,822.00",
+        "description": "The Colnago V3Rs is conceptualised independently instead of after past successes from monocoque frame releases; the V1-R and V2-R. The V3Rs is lighter, with a size 50 frame weighing in at 790 grams.",
+        "img": "https://i.ibb.co/5BWCg3b/15.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Colnago V3Rs Framekit (RCRD)",
+        "price": "6,822.00",
+        "description": "The Colnago V3Rs is conceptualised independently instead of after past successes from monocoque frame releases; the V1-R and V2-R. The V3Rs is lighter, with a size 50 frame weighing in at 790 grams.",
+        "img": "https://i.ibb.co/7R7Cqns/16.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Colnago V2-R Framekit (VJWH)",
+        "price": "3,480.00 ",
+        "description": "The V2-R is the lightest monocoque frame in Colnago’s arsenal. The newly designed V2-R is at an acclaimed weight of just 835g. To allow for such an achievement, Colnago uses only the finest of carbon fibre materials available.",
+        "img": "https://i.ibb.co/yNX3NRk/17.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Concept Disc Framekit (NJRD)",
+        "price": "3,780.00 ",
+        "description": "The Colnago Concept is the fastest and most aero dynamic bicycle in the range. The Concept is born out of the collaboration between Ernesto Colnago and Enzo Ferrari, and its latest alliteration is all but a fine testament to the knowledge and hard work which began in 1986.",
+        "img": "https://i.ibb.co/NWsdBf2/18.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Colnago Disc Concept Framekit (NJBK)",
+        "price": "3,780.00 ",
+        "description": "The Colnago Concept is the fastest and most aero dynamic bicycle in the range. The Concept is born out of the collaboration between Ernesto Colnago and Enzo Ferrari, and its latest alliteration is all but a fine testament to the knowledge and hard work which began in 1986.",
+        "img": "https://i.ibb.co/ngqycqN/19.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Colnago V3 (MKRD) Ultegra",
+        "price": "4,983.00",
+        "description": "When we developed the V3 we thought of all those cyclists who want to get the most out of their investment. Quality carbon and fittings designed to offer an excellent level of performance and contain costs make the V3 a perfectly balanced from every angle.",
+        "img": "https://i.ibb.co/NYxpJnK/20.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Colnago V2-R Framekit (VJRD)",
+        "price": "3,480.00",
+        "description": "The V2-R is the lightest monocoque frame in Colnago’s arsenal. The newly designed V2-R is at an acclaimed weight of just 835g. To allow for such an achievement, Colnago uses only the finest of carbon fibre materials available and through very precise engineering were able to achieve such an impressive feat.",
+        "img": "https://i.ibb.co/Wxqr6kv/21.jpg"
+    }
+]
